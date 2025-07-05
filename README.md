@@ -1,16 +1,36 @@
-## Hi there 👋
+Abhay Yadav
 
-<!--
-**abhay0132/abhay0132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm a final-year B.Tech student in Computer Science and Engineering at Jaypee Institute of Information Technology, passionate about crafting innovative web applications.
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+🎓 Studying B.Tech in Computer Science at JIIT, Noida (2022–2026)
+
+
+
+💻 Enthusiastic full-stack developer building user-friendly, scalable web solutions
+
+
+
+🌐 Passionate about web development, turning creative ideas into reality
+
+
+
+⚽ Avid football fan, cheering for my favorite teams
+
+
+
+📚 Love reading books to explore new perspectives
+
+
+
+🛠️ Enjoy creating cool, impactful projects that solve real-world problems
+
+
+
+🏆 Competitive programmer, solving 250+ problems on LeetCode
+
