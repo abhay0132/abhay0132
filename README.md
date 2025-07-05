@@ -20,7 +20,7 @@ Hello! I'm a final-year B.Tech student in Computer Science and Engineering at Ja
 
 
 
-- ⚽ Avid football fan, cheering for my favorite teams
+- ⚽ Avid football fan, cheering for my favorite team(real madrid 👑)
 
 
 
