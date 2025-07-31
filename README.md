@@ -12,7 +12,7 @@ Hello! I'm a final-year B.Tech student in Computer Science and Engineering at Ja
 
 
 
-- 💻 Enthusiastic full-stack developer building user-friendly, scalable web solutions
+- 💻 Full-stack developer building user-friendly, scalable web solutions
 
 
 
