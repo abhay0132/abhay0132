@@ -32,7 +32,7 @@ Hello! I'm a final-year B.Tech student in Computer Science and Engineering at Ja
 
 
 
-- 🏆 Competitive programmer, solving 300+ problems on LeetCode
+- 🏆 Competitive programmer, solving 500+ problems on LeetCode
 
 
 # 💻 Tech Stack:
